@@ -2,6 +2,7 @@
   "name": "hospital-ms-server",
   "version": "1.0.0",
   "description": "Hospital Management System - Backend API",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
